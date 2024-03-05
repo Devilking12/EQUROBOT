@@ -29,7 +29,7 @@ Welcome to the ChatGPT or Deep AI Bot repository! This repository contains code 
 
 ## Contributors
 
-- [MRDAXX](https://github.com/DAXXTEAM)
+- [BHUMIHAR](https://github.com/Devilking12)
 
 ## License
 
